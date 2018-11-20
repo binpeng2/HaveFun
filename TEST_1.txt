@@ -1,6 +1,0 @@
-master
-<<<<<<< .merge_file_a16220
-development
-=======
-bin
->>>>>>> .merge_file_a13924
